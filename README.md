@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
-<h3 align="center">A passionate Full Stack Developer from India. </h3>
+<h3 align="center">A Full Stack Developer from India. </h3>
 
 ### 🙋‍♂️ About Me
 - 🧑🏻‍🎓 I'm a Junior at **Lovely Professional University studying Computer Science**
