@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation">
+  <img width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding">
 </p>
 
 <p align="center">
@@ -17,12 +17,11 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 I'm a **Junior** at *Lovely Professional University*, pursuing **Computer Science Engineering**  
-- 💻 Passionate about building full-stack web apps  
+- 🎓 I'm a **Junior** at *Lovely Professional University*, studying **Computer Science Engineering**  
+- 💻 Passionate about **Web Development**  
 - 🌱 Currently learning **React, Node.js & JavaScript**  
-- 🤝 Actively contributing to **Open Source Projects**  
-- ✍️ Exploring creative tools like **DaVinci Resolve & Adobe Lightroom**  
-- 📬 Reach me at [kabhishek10266@gmail.com](mailto:kabhishek10266@gmail.com)
+- 🤝 Looking to collaborate on **Open Source Projects**  
+- 📫 Reach me at [kabhishek10266@gmail.com](mailto:kabhishek10266@gmail.com)
 
 ---
 
@@ -46,19 +45,11 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠️ Tools & Platforms
+#### ⚙️ Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=DaVinci%20Resolve&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kabhi001&theme=tokyonight&margin-w=10&no-frame=true&column=6" />
-</p>
 
 ---
 
@@ -75,7 +66,7 @@
 
 ---
 
-### ⚡ GitHub Activity Graph
+### ⚡ My GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhi001&theme=tokyo-night&area=true&hide_border=true" />
@@ -86,9 +77,9 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kabhishek001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/abhishek27.6/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
-  <a href="mailto:kabhishek10266@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/kabhishek001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/abhishek27.6/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="mailto:kabhishek10266@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 ---
