@@ -1,5 +1,5 @@
 <!-- Hero Section with Typing Animation and Visitor Count -->
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
